@@ -12,7 +12,7 @@ export default function Home() {
 
       <main>
         <Header title="Seja bem vindo" />
-        <p className="description">
+        <p className="text-3xl font-bold underline">
           Site teste com build github
         </p>
       </main>
