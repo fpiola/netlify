@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "imagem": "./assets/img/anuncio-viajaai-1.png",
+        "cidade": "Caxias do Sul",
+        "descricao": "lorem ipsum Caxias do Sul",
+        "parcelas": "12x",
+        "preco" : "200",
+        "whatsapp" : "5554991761616"
+    },
+    {
+        "id": 2,
+        "imagem": "./assets/img/anuncio-viajaai-1.png",
+        "cidade": "Canela",
+        "descricao": "lorem ipsum Canela",
+        "parcelas": "10x",
+        "preco" : "200",
+        "whatsapp" : "5554991761616"
+    },
+    {
+        "id": 3,
+        "imagem": "./assets/img/anuncio-viajaai-1.png",
+        "cidade": "Gramado",
+        "descricao": "lorem ipsum Gramado",
+        "parcelas": "10x",
+        "preco" : "200",
+        "whatsapp" : "5554991761616"
+    }
+]
+
+
+
+

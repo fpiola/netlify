@@ -6,13 +6,13 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Site title</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Seja bem vindo" />
-        <p className="text-3xl font-bold underline">
+        <Header title="seja bem vindo"/>
+        <p className="text-3xl text-center">
           Site teste com build github
         </p>
       </main>
