@@ -9,7 +9,7 @@ export async function getStaticProps(){
 }
 */
 
-export async function getStaticProps() {
+export async function getServerSideProps() {
     const url = 'https://docs.google.com/spreadsheets/d/';
     const ssid = '1ZmD9DdysQmyirRmG6ZAp5nAl8pI4lai6yO0QWETJx3M';
     const query1 = `/gviz/tq?`;
